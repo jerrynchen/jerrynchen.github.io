@@ -8,6 +8,6 @@ I am now working on LLM based data generation, instruction tuning, dialgue gener
 
 My long-term collaborators include [Assistant Professor Suncheng Xiang](https://jeremyxsc.github.io/) and [Dr. Jiacheng Ruan](https://jcruan519.github.io/) at Shanghai Jiao Tong University (SJTU). Previously, I once worked under the guidance of [Wang Baoyuan](https://sites.google.com/site/zjuwby/home) and [Yixin Lian](https://lianyixin.github.io/profile/). Open-source projects can be found at my [Github](https://github.com/gaojingsheng/), and the full list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O4o2aQcAAAAJ). 
 
-I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me anytime.
+I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me.
 
 </div>

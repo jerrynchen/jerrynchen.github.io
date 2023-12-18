@@ -9,7 +9,10 @@
 
 # 💗 Services
 
-
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+- ACM International Conference on Multimedia (ACM MM 2023)
+- International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
+- Journal Reviewer of Expert Systems with Applications
 
 # 💬 Teaching
 *2021.03 - 2021.07*, College Physics, Shanghai Jiao Tong University.
