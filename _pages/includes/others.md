@@ -24,11 +24,11 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-*2021.03 - 2021.07*, College Physics, Shanghai Jiao Tong University.
-*2021.09 - 2022.01*, Integrated Circuit Design Practice in Microelectronics, Shanghai Jiao Tong University.
-*2022.03 - 2022.07*, College Physics, Shanghai Jiao Tong University.
-*2022.03 - 2022.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
-*2023.03 - 2023.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
+- *2021.03 - 2021.07*, College Physics, Shanghai Jiao Tong University.
+- *2021.09 - 2022.01*, Integrated Circuit Design Practice in - Microelectronics, Shanghai Jiao Tong University.
+- *2022.03 - 2022.07*, College Physics, Shanghai Jiao Tong University.
+- *2022.03 - 2022.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
+- *2023.03 - 2023.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
 
 </div>
 
