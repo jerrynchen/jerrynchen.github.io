@@ -10,4 +10,6 @@ My long-term collaborators include [Assistant Professor Suncheng Xiang](https://
 
 <!-- I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me. -->
 
+In my free time, I enjoy swimming, playing board games, and photography. Additionally, I occasionally post random thoughts on [Zhihu](https://www.zhihu.com/people/cautious-56).
+
 </div>
