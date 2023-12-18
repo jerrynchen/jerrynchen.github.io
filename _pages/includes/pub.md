@@ -21,7 +21,7 @@ The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-[**LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**](https://aclanthology.org/2023.acl-long.858.pdf) \\
+[**LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming**](https://aclanthology.org/2023.acl-long.858.pdf) 
 
 **Jingsheng Gao**, Yixin Lian, Ziyi Zhou, Yuzhuo Fu, Baoyuan Wang \\
 The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023.
@@ -36,7 +36,7 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-[**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf) \\
+[**Hierarchical Verbalizer for Few-Shot Hierarchical Text Classification**](https://aclanthology.org/2023.acl-long.164.pdf) 
 
 Ke Ji, Yixin Lian, **Jingsheng Gao**, Baoyuan Wang \\
 The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023.
@@ -52,12 +52,27 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-[**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://ieeexplore.ieee.org/abstract/document/10219879) \\
+[**DynaSlim: Dynamic Slimming for Vision Transformers**](https://ieeexplore.ieee.org/abstract/document/10219879) 
 
 Da Shi\*, **Jingsheng Gao\***, Ting Liu, Yuzhuo Fu (\* means equal contribution)\\
 IEEE International Conference on Multimedia and Expo (ICME) (**ICME**), 2023.
 
 📄 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10219879) 🍔 [**Project**](https://gaojingsheng.github.io/) 
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DynaSlim.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+
+[**CluCDD: Contrastive Dialogue Disentanglement via Clustering**](https://arxiv.org/pdf/2302.08146.pdf) 
+
+**Jingsheng Gao**, Zeyu Li, Suncheng Xiang, Ting Liu, Yuzhuo Fu\\
+IEEE International Conference on Acoustics, Speech and Signal Processing Satellite Workshop (IWCIM), 2023.
+
+📄 [**Paper**](https://arxiv.org/pdf/2302.08146.pdf) 🍔 [**Project**](https://github.com/gaojingsheng/CluCDD) 
 
 </div>
 </div>
