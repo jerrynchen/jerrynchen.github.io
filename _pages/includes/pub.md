@@ -2,7 +2,7 @@
 # 📝 Publications 
 <!-- ## 🎙 Speech Synthesis -->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/LAMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/LAMM.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
