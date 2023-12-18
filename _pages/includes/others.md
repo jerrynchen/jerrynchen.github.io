@@ -9,18 +9,28 @@
 
 # 💗 Services
 
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 - ACM International Conference on Multimedia (ACM MM 2023)
 - International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
 - Journal Reviewer of Expert Systems with Applications
 
+</div>
+
+
 # 💬 Teaching
+
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+
 *2021.03 - 2021.07*, College Physics, Shanghai Jiao Tong University.
 *2021.09 - 2022.01*, Integrated Circuit Design Practice in Microelectronics, Shanghai Jiao Tong University.
 *2022.03 - 2022.07*, College Physics, Shanghai Jiao Tong University.
 *2022.03 - 2022.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
 *2023.03 - 2023.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
 
+</div>
 
 # 💻 Internships
 
