@@ -48,3 +48,18 @@ The 61st Annual Meeting of the Association for Computational Linguistics (**ACL*
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DynaSlim.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+
+[**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://ieeexplore.ieee.org/abstract/document/10219879) \\
+
+Da Shi\*, **Jingsheng Gao\***, Ting Liu, Yuzhuo Fu (\* means equal contribution)\\
+IEEE International Conference on Multimedia and Expo (ICME) (**ICME**), 2023.
+
+📄 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10219879) 🍔 [**Project**](https://gaojingsheng.github.io/) 
+
+</div>
+</div>
+
+
