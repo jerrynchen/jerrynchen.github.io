@@ -6,7 +6,7 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-[**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/abs/2312.08212.pdf) \\
+[**LAMM: Label Alignment for Multi-Modal Prompt Learning**](https://arxiv.org/abs/2312.08212.pdf)
 
 **Jingsheng Gao**, Jiacheng Ruan, Suncheng Xiang, Zefang Yu, Ke Ji, Mingye Xie, Ting Liu, Yuzhuo Fu \\
 The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (CCF-A)
