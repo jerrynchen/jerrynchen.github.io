@@ -63,7 +63,7 @@ IEEE International Conference on Multimedia and Expo (ICME) (**ICME**), 2023. (C
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DynaSlim.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CluCDD.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
@@ -78,7 +78,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing Satelli
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Rethink.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EGEUNet.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
@@ -108,7 +108,7 @@ ACM Transactions on Multimedia Computing, Communications and Applications (**ACM
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DynaSlim.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/SAE-NTM.png' alt="sym" width="100%" height="100%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
