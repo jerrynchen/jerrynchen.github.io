@@ -2,14 +2,19 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-I am a fourth-year PhD student at SJTU [School of Electronic Information and Electrical Engineering](https://www.seiee.sjtu.edu.cn/), under the supervision of [Prof. Yuzhuo Fu](https://dmne.sjtu.edu.cn/dmne/faculty/fuyuzhuo/). Previously, I obtained my bachelor's degree from [School of Physics and Astromony](https://www.physics.sjtu.edu.cn/), Shanghai Jiaotong University. 
+I am now in my second year of Phd. in data science and analysis (DSA) at HKUST, advised by [Jia li](https://sites.google.com/view/lijia) and [Yangqiu Song](https://scholar.google.com/citations?user=MdQZ-q8AAAAJ&hl=zh-CN&oi=ao).
 
-I am now working on LLM based data generation, instruction tuning, dialogue generation and parameter-efficient learning. If you are seeking any form of **academic cooperation**, please feel free to email me at gaojingsheng@sjtu.edu.cn.
+I got my master's degree from Peking University, majored in computer science, supervised by [Yuexian Zou](https://web.pkusz.edu.cn/adsp/), and got my bachelor's degree from Beijing University of Posts and Telecommunications. I was employed  as a research intern by Alibaba Damo Academy, Microsoft research and  Tencent AI Lab, worked closely with [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN), [Linjun Shou](https://www.microsoft.com/en-us/research/people/lisho/), [Yan Wang](https://libertywing.github.io/yanwang.github.io/). 
 
-My long-term collaborators include [Suncheng Xiang](https://jeremyxsc.github.io/), [Mingye Xie](https://myronxie.github.io/) and [Jiacheng Ruan](https://jcruan519.github.io/) at Shanghai Jiao Tong University (SJTU). Previously, I once worked under the guidance of [Wang Baoyuan](https://sites.google.com/site/zjuwby/home) and [Yixin Lian](https://lianyixin.github.io/profile/) in Xiaoice. Open-source projects can be found at my [Github](https://github.com/gaojingsheng/), and the full list of my publications can be found at [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=O4o2aQcAAAAJ). 
+ My research interests focus on nlp, including question answering, cross-lingual understanding, dialog generation and multi-modal fusion.  <br>
+Indeed, my works now are focusing on **large language models** and **cross-lingual language understanding**. I also have some experiences in designing or pre-trainig large language models, including chinese, English and multi-lingual. I am  familiar with speech and audio processing (a little, LOL)
 
-<!-- I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me. -->
 
-In my free time, I enjoy swimming, playing board games, and photography. Additionally, I occasionally post random thoughts on [Zhihu](https://www.zhihu.com/people/cautious-56).
+
+In my free time, I enjoy swimming, playing board games. Additionally, I occasionally post random thoughts and share paper details on [Zhihu](https://www.zhihu.com/people/chen-nuo-8-79-20).
+
+📢 I am looking for corporation and internship oppotunity, please feel free to contact me if you have interested.
+
+📢 I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me. 
 
 </div>
