@@ -5,44 +5,23 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-- *2020.09 - Now*, Phd Candidate, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong Univeristy, Shanghai.
-- *2016.09 - 2020.06*, Undergraduate, School of Physics and Astromony, Shanghai Jiao Tong Univeristy, Shanghai.
+- *2022.09 - Now*, Phd Candidate, DSA, HKUST.
+- *2019.09 - 2022.06*, Master, Science of Computer Enginering, Peking University.
+  *2015.09 - 2019.06*, Undergraduate,  Beijing University of Posts and Telecommunications.
 
 </div>
 
 # 🔧 Services
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
-- ACM International Conference on Multimedia (ACM MM 2023)
-- International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023-2024)
-- Journal Reviewer of Expert Systems with Applications
+  
+* Invited Talk at Shanghai University Of Engineering Science
+* Reviewer for ACMMM, ACL, EMNLP, AAAI，NAACL, ICLR and T-PAMI.
 
 </div>
 
 
-# 💬 Teaching
 
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-- *2023.03 - 2023.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
-- *2022.03 - 2022.07*, Integrated Hardware Practice in Artificial Intelligence, Shanghai Jiao Tong University.
-- *2022.03 - 2022.07*, College Physics, Shanghai Jiao Tong University.
-- *2021.09 - 2022.01*, Integrated Circuit Design Practice in Microelectronics, Shanghai Jiao Tong University.
-- *2021.03 - 2021.07*, College Physics, Shanghai Jiao Tong University.
-
-</div>
-
-# 💻 Internships
-
-<div class='paper-box-text' style="font-size: larger;" markdown="1">
-
-- *2022.08 - 2023.02*, Xiaoice, Shanghai.
-
-- *2020.06 - 2020.08*, Fosun Pharmaceutical, Shanghai.
-
-
-</div>
-
+# Contact
+* Email: chennuo26[at]gmail.com & nchen022[at]connect.ust.hk
 
