@@ -4,19 +4,19 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-title                    : "Nuo Chen (高景盛)"
-description              : "Phd Candidate in Shanghai Jiao Tong University. Focusing on dialogue generation, multi-modal and large language models."
-repository               : "gaojingsheng/gaojingsheng.github.io"
+title                    : "Nuo Chen (陈诺)"
+description              : "Second Year Phd in HKUST. Focusing on dialogue generation, multi-lingual and large language models."
+repository               : "jerrynchen/jerrynchen.github.io"
 
 author:
-  name             : "Jingsheng Gao (高景盛)"
+  name             : "Nuo Chen (陈诺)"
   avatar           : "images/life_gjs.jpg" # "images/bio-photo.jpeg"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai"
+  bio              : "HKUST-GZ"
+  location         : "Hongkong SAR"
   employer         :
   pubmed           : 
-  googlescholar    : 'https://scholar.google.com/citations?user=O4o2aQcAAAAJ&hl=en'
-  email            : "gaojingsheng@sjtu.edu.cn"
+  googlescholar    : 'https://scholar.google.com/citations?user=qFS5KY0AAAAJ&hl=zh-CN'
+  email            : "chennuo26@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -25,7 +25,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gaojingsheng"
+  github           : "nuochenpku"
   google_plus      :
   keybase          :
   instagram        :
@@ -33,7 +33,7 @@ author:
   lastfm           :
   linkedin         : # "rayeren"
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6271-0903"
+  # orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6271-0903"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -45,7 +45,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            :  'https://www.zhihu.com/people/cautious-56'
+  zhihu            :  'https://www.zhihu.com/people/chen-nuo-8-79-20'
   
 
 # Reading Files
