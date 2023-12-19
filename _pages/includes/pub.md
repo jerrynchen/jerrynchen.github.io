@@ -4,7 +4,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/probing.png' alt="sym" width="100%" height="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/probing.png' alt="sym" width="100%" height="60%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
