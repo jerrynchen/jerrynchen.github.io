@@ -6,8 +6,8 @@ I am now in my second year of Phd. in data science and analysis (DSA) at HKUST, 
 
 I got my master's degree from Peking University, majored in computer science, supervised by [Yuexian Zou](https://web.pkusz.edu.cn/adsp/), and got my bachelor's degree from Beijing University of Posts and Telecommunications. I was employed  as a research intern by Alibaba Damo Academy, Microsoft research and  Tencent AI Lab, worked closely with [Daxin Jiang](https://scholar.google.com/citations?user=N-wAHCoAAAAJ&hl=zh-CN), [Linjun Shou](https://www.microsoft.com/en-us/research/people/lisho/), [Yan Wang](https://libertywing.github.io/yanwang.github.io/). 
 
- My research interests focus on nlp, including question answering, cross-lingual understanding, dialog generation and multi-modal fusion.  <br>
-Indeed, my works now are focusing on **large language models** and **cross-lingual language understanding**. I also have some experiences in designing or pre-trainig large language models, including chinese, English and multi-lingual. I am  familiar with speech and audio processing (a little, LOL)
+ My research interests focus on nlp, including question answering, cross-lingual understanding, dialog generation and multi-modal fusion.  
+Currently, my works now are focusing on **Large Language Models** and **Cross-Lingual language reasoning**. I also have some experiences in designing or pre-trainig large language models, including chinese, English and multi-lingual. I am  familiar with speech and audio processing (a little, LOL)
 
 
 
