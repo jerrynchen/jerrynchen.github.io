@@ -63,6 +63,19 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP 20
 International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2021**)
 
 
+## 📚 Preprint
+
+* [**Beyond Surface: Probing LLaMA Across Scales and Layers**](https://arxiv.org/abs/2312.04333) [[**Paper**](https://arxiv.org/abs/2312.04333)] [[**Project**](https://github.com/nuochenpku/LLaMA_Analysis)] [[**知乎**](https://zhuanlan.zhihu.com/p/669730374)] <br>
+**Nuo Chen**, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li <br>
+Preprint, 12/2023.
+
+* [**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)  [[**Paper**](https://arxiv.org/abs/2310.20246)] [[**Project**](https://mathoctopus.github.io/)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
+**Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
+Preprint, 11/2023.
+
+
+
+
 
 
 
@@ -80,5 +93,3 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP 20
 
 📧 [**HTML**](https://aiqicha.baidu.com/patent/info?referId=9495008b8c4b8a01dc316bcfdbdcdf79677dc79d&pid=31720823858720) 
 -->
-</div>
-</div>
