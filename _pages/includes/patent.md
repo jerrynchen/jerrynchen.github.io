@@ -3,7 +3,7 @@
 
 # 📡 Patents
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Patent1.png' alt="sym" width="75%""></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Patent1.png' alt="sym" width="100%""></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 **基于直播场景的对话数据集构建方法及装置**
