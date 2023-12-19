@@ -7,7 +7,7 @@
 
 - *2022.09 - Now*, Phd Candidate, DSA, HKUST.
 - *2019.09 - 2022.06*, Master, Science of Computer Enginering, Peking University.
-  *2015.09 - 2019.06*, Undergraduate,  Beijing University of Posts and Telecommunications.
+- *2015.09 - 2019.06*, Undergraduate,  Beijing University of Posts and Telecommunications.
 
 </div>
 
