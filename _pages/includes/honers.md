@@ -7,8 +7,8 @@
 * Outstanding Graduates of Peking University, 2022
 * Outstanding Graduates of Beijing, 2022
 * AAAI-2022 Scholarship
-* KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top 4%
-* Peking University Tiehan Scholarship
-* Merit student of Peking University
+* KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing Top 4%, 2021
+* Peking University Tiehan Scholarship, 2021
+* Merit student of Peking University, 2021
 
 </div>
