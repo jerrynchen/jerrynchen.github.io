@@ -22,6 +22,6 @@
 
 
 
-# Contact
+# 📧 Contact
 * Email: chennuo26[at]gmail.com & nchen022[at]connect.ust.hk
 
