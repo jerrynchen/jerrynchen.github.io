@@ -13,7 +13,7 @@ Currently, my works now are focusing on **Large Language Models** and **Cross-Li
 
 In my free time, I enjoy swimming, playing board games. Additionally, I occasionally post random thoughts and share paper details on [Zhihu](https://www.zhihu.com/people/chen-nuo-8-79-20).
 
-📢 I am looking for corporation and internship oppotunity, please feel free to contact me if you have interested.
+📢 I am looking for corporation and internship oppotunity, please feel free to contact me if you have interests.
 
 📢 I am expected to graduate in 2025. If you have any **suitable job recommendations**, please feel free to contact me. 
 
