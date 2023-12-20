@@ -2,7 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-* [12/2023] 🥳 Two recent wroks are avaliable at Arxiv: [**MathOctopus**](https://mathoctopus.github.io/) and [**LLaMA-Probing**](https://github.com/nuochenpku/LLaMA_Analysis).
+* [12/2023] 🥳 Two recent works are avaliable at Arxiv: [**MathOctopus**](https://mathoctopus.github.io/) and [**LLaMA-Probing**](https://github.com/nuochenpku/LLaMA_Analysis).
 * [12/2023] Severed as a reviewer at NAACL 2024.
 * [10/2023] 🎉🎉🎉 **Three** papers accepted by EMNLP 2023.
 * [09/2023] Severed as a reviewer at T-PAMI.
