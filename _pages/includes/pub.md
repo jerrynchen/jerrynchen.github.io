@@ -4,16 +4,16 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/probing.png' alt="sym" width="100%" height="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/graphwiz.png' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
-[**Beyond Surface: Probing LLaMA Across Scales and Layers**](https://arxiv.org/abs/2312.04333)
+[**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/)
 
-**Nuo Chen**, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li \\
-Preprint, 12/2023.
+**Nuo Chen**, Yuhan Li, Jianheng Tang, Jia Li \\
+Preprint, 02/2024.
 
-📄 [**Paper**](https://arxiv.org/abs/2312.04333) 🍔 [**Project**](https://github.com/nuochenpku/LLaMA_Analysis) 🖍️[**知乎**](https://zhuanlan.zhihu.com/p/669730374)
+📄 [**Paper**](https://arxiv.org/abs/2402.16029) 🍔 [**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM) 
 
 </div>
 </div>
