@@ -65,6 +65,15 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP 20
 
 ## 📚 Preprint
 
+* [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/) [[**Paper**](https://arxiv.org/abs/2402.16029)] [[**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM)]  <br>
+**Nuo Chen**\*, Yuhan Li\*, Jianheng Tang, Jia Li <br>
+Preprint, 02/2024.
+
+* [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975)  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
+**Nuo Chen**, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li <br>
+Preprint, 02/2024.
+
+
 * [**Beyond Surface: Probing LLaMA Across Scales and Layers**](https://arxiv.org/abs/2312.04333) [[**Paper**](https://arxiv.org/abs/2312.04333)] [[**Project**](https://github.com/nuochenpku/LLaMA_Analysis)] [[**知乎**](https://zhuanlan.zhihu.com/p/669730374)] <br>
 **Nuo Chen**, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li <br>
 Preprint, 12/2023.
