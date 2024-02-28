@@ -40,7 +40,7 @@ Preprint, 11/2023.
 
 [**Large Language Models Meet Harry Potter: A Dataset for Aligning Dialogue Agents with Characters**](https://aclanthology.org/2023.findings-emnlp.570.pdf) 
 
-**Jingsheng Gao**, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Longyue Wang, Jia Li \\
+**Nuo Chen**, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Longyue Wang, Jia Li \\
  **EMNLP** 2023
 
 📄 [**Paper**](https://aclanthology.org/2023.findings-emnlp.570.pdf) 🍔 [**Project**](https://nuochenpku.github.io/HPD.github.io) 
