@@ -3,6 +3,11 @@
 
 # ♾️ Publications
 (*=equal contribution)
+
+*  [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/) [[**Paper**](https://arxiv.org/abs/2402.16029)] [[**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
+**Nuo Chen**\*, Yuhan Li\*, Jianheng Tang*, Jia Li <br>
+**KDD 2024**.
+
 * Large Language Models Meet Harry Potter: A Bilingual Dataset for Character Aligning. [[PDF](https://arxiv.org/abs/2211.06869)], [[Code](https://github.com/nuochenpku/Harry-Potter-Dialogue-Dataset)], [[Dataset](https://github.com/nuochenpku/Harry-Potter-Dialogue-Dataset)] <br>
 **Nuo Chen**, Yan Wang, Haiyun Jiang, Deng Cai, Yuhan Li, Ziyang Chen, Jia Li. <br>
 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2023**).
@@ -65,9 +70,7 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP 20
 
 ## 📚 Preprint
 
-* [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/) [[**Paper**](https://arxiv.org/abs/2402.16029)] [[**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM)]  <br>
-**Nuo Chen**\*, Yuhan Li\*, Jianheng Tang, Jia Li <br>
-Preprint, 02/2024.
+
 
 * [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975)  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
 **Nuo Chen**, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li <br>
