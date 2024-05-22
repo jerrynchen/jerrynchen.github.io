@@ -11,7 +11,7 @@
 [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/)
 
 **Nuo Chen**, Yuhan Li, Jianheng Tang, Jia Li \\
-Preprint, 02/2024.
+**KDD 2024**.
 
 📄 [**Paper**](https://arxiv.org/abs/2402.16029) 🍔 [**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM) 
 
