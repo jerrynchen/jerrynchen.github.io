@@ -4,7 +4,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/graphwiz.png' alt="sym" width="100%" height="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/role-playing_key_components.png' alt="sym" width="100%" height="80%"></div></div>
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
