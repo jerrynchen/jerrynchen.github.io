@@ -8,6 +8,21 @@
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
 
+[**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484).
+
+**Nuo Chen**, Yang Deng, Jia Li \\
+
+📄 [**Paper**](https://arxiv.org/abs/2407.11484) 🍔 [**Project**](https://github.com/nuochenpku/Awesome-Role-Play-Papers/tree/main) 
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/graphwiz.png' alt="sym" width="100%" height="80%"></div></div>
+<div class='paper-box-text' style="font-size: larger;" markdown="1">
+
+
 [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/)
 
 **Nuo Chen**, Yuhan Li, Jianheng Tang, Jia Li \\
