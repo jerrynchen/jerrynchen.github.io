@@ -70,6 +70,9 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP 20
 
 ## 📚 Preprint
 
+* [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484) [[**Paper**](https://arxiv.org/abs/2407.11484)] [[**Project**](https://github.com/nuochenpku/Awesome-Role-Play-Papers)] <br>
+**Nuo Chen**, Yang Deng, Jia Li <br>
+Preprint, 07/2024.
 
 
 * [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975)  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
