@@ -10,7 +10,7 @@
 
 [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484).
 
-**Nuo Chen**, Yang Deng, Jia Li \\
+**Nuo Chen**, Yang Deng, Jia Li 
 
 📄 [**Paper**](https://arxiv.org/abs/2407.11484) 🍔 [**Project**](https://github.com/nuochenpku/Awesome-Role-Play-Papers/tree/main) 
 
