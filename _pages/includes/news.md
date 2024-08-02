@@ -2,6 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+* [07/2024] I intern in Qianwen Foundation Model Team, focusing on pre-training for improving llm reasoning.
 * [07/2024] Our thoughts of **Role-Playing** are in this survey: [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484).
 * [05/2024] Severed as a reviewer at EMNLP 2024.
 * [05/2024] 🎉 One paper accepted by KDD 2024.
