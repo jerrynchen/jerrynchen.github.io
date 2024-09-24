@@ -4,6 +4,15 @@
 # ♾️ Publications
 (*=equal contribution)
 
+* [**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)  [[**Paper**](https://arxiv.org/abs/2310.20246)] [[**Project**](https://mathoctopus.github.io/)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
+**Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
+**EMNLP 2024**.
+
+* [**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)  [[**Paper**](https://arxiv.org/abs/2310.20246)] [[**Project**](https://mathoctopus.github.io/)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
+**Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
+**EMNLP 2024**.
+
+
 *  [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/) [[**Paper**](https://arxiv.org/abs/2402.16029)] [[**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
 **Nuo Chen**\*, Yuhan Li\*, Jianheng Tang*, Jia Li <br>
 **KDD 2024**.
