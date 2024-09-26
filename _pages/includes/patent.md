@@ -93,9 +93,6 @@ Preprint, 02/2024.
 **Nuo Chen**, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li <br>
 Preprint, 12/2023.
 
-* [**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)  [[**Paper**](https://arxiv.org/abs/2310.20246)] [[**Project**](https://mathoctopus.github.io/)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
-**Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
-Preprint, 11/2023.
 
 
 
