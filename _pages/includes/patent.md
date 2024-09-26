@@ -8,8 +8,8 @@
 **Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
 **EMNLP 2024**.
 
-* [**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)  [[**Paper**](https://arxiv.org/abs/2310.20246)] [[**Project**](https://mathoctopus.github.io/)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
-**Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
+* [**ControlMath: Controllable Data Generation Promotes Math Generalist Models**](https://arxiv.org/abs/2409.15376)  [[**Paper**](https://arxiv.org/abs/2409.15376)]]  <br>
+**Nuo Chen**, Ning Wu, Jianhui Chang, Jia Li <br>
 **EMNLP 2024**.
 
 
