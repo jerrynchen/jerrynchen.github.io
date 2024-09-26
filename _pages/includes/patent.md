@@ -8,7 +8,7 @@
 **Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
 **EMNLP 2024**.
 
-* [**ControlMath: Controllable Data Generation Promotes Math Generalist Models**](https://arxiv.org/abs/2409.15376)  [[**Paper**](https://arxiv.org/abs/2409.15376)]]  <br>
+* [**ControlMath: Controllable Data Generation Promotes Math Generalist Models**](https://arxiv.org/abs/2409.15376)  [[**Paper**](https://arxiv.org/abs/2409.15376)]  <br>
 **Nuo Chen**, Ning Wu, Jianhui Chang, Jia Li <br>
 **EMNLP 2024**.
 
