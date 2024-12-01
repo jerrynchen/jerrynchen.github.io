@@ -2,7 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
-* [11/2024] 🎉**One papers** accepted by COLING 2025.
+* [11/2024] 🎉**One paper** accepted by COLING 2025.
 * [09/2024] 🎉🎉**Two papers** accepted by EMNLP 2024.
 * [07/2024] I intern in Qwen Foundation Model Team, focusing on pre-training for improving llm reasoning.
 * [07/2024] Our thoughts of **Role-Playing** are in this survey: [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484).
