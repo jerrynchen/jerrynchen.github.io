@@ -4,6 +4,12 @@
 # ♾️ Publications
 (*=equal contribution)
 
+
+* [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975)  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
+**Nuo Chen**, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li <br>
+**COLING 2025**.
+
+
 * [**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**](https://arxiv.org/abs/2310.20246)  [[**Paper**](https://arxiv.org/abs/2310.20246)] [[**Project**](https://mathoctopus.github.io/)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
 **Nuo Chen**, Zinan Zheng, Ning Wu, Ming Gong, Yangqiu Song, Dongmei Zhang, Jia Li <br>
 **EMNLP 2024**.
@@ -11,7 +17,6 @@
 * [**ControlMath: Controllable Data Generation Promotes Math Generalist Models**](https://arxiv.org/abs/2409.15376)  [[**Paper**](https://arxiv.org/abs/2409.15376)]  <br>
 **Nuo Chen**, Ning Wu, Jianhui Chang, Jia Li <br>
 **EMNLP 2024**.
-
 
 *  [**GraphWiz: An Instruction-Following Language Model for Graph Problems**](https://graph-wiz.github.io/) [[**Paper**](https://arxiv.org/abs/2402.16029)] [[**Project**](https://github.com/nuochenpku/Graph-Reasoning-LLM)] [[**知乎**](https://zhuanlan.zhihu.com/p/664504560)] <br>
 **Nuo Chen**\*, Yuhan Li\*, Jianheng Tang*, Jia Li <br>
@@ -82,12 +87,6 @@ International Conference on Acoustics, Speech and Signal Processing (**ICASSP 20
 * [**The Oscars of AI Theater: A Survey on Role-Playing with Language Models**](https://arxiv.org/abs/2407.11484) [[**Paper**](https://arxiv.org/abs/2407.11484)] [[**Project**](https://github.com/nuochenpku/Awesome-Role-Play-Papers)] <br>
 **Nuo Chen**, Yang Deng, Jia Li <br>
 Preprint, 07/2024.
-
-
-* [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975)  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
-**Nuo Chen**, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li <br>
-Preprint, 02/2024.
-
 
 * [**Beyond Surface: Probing LLaMA Across Scales and Layers**](https://arxiv.org/abs/2312.04333) [[**Paper**](https://arxiv.org/abs/2312.04333)] [[**Project**](https://github.com/nuochenpku/LLaMA_Analysis)] [[**知乎**](https://zhuanlan.zhihu.com/p/669730374)] <br>
 **Nuo Chen**, Ning Wu, Shining Liang, Ming Gong, Linjun Shou, Dongmei Zhang, Jia Li <br>
