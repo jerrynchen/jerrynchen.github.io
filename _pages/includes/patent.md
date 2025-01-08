@@ -5,7 +5,7 @@
 (*=equal contribution)
 
 
-* [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975)  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
+* [**Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations**](https://arxiv.org/abs/2402.11975) (<font color="#dd0000">Oral</font>）  [[**Paper**](https://arxiv.org/abs/2402.11975)] [[**Project**](https://github.com/nuochenpku/COMEDY)] <br>
 **Nuo Chen**, Hongguang Li, Juhua Huang, Baoyuan Wang, Jia Li <br>
 **COLING 2025**.
 
