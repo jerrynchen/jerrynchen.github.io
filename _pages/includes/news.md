@@ -2,6 +2,7 @@
 
 <div class='paper-box-text' style="font-size: larger;" markdown="1">
 
+* [02/2025] 🎉**<font color="#dd0000">Awarded 2024 Baidu Scholarship</font>**🎉
 * [11/2024] 🎉**One paper** accepted by COLING 2025 (<font color="#dd0000">Oral</font>）.
 * [09/2024] 🎉🎉**Two papers** accepted by EMNLP 2024.
 * [07/2024] I intern in Qwen Foundation Model Team, focusing on pre-training for improving llm reasoning.
