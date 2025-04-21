@@ -6,10 +6,10 @@ I am now in my third year of Phd. in data science and analysis (DSA) at HKUST, a
 I got my master's degree from Peking University, majored in computer science, supervised by [Yuexian Zou](https://web.pkusz.edu.cn/adsp/), and got my bachelor's degree from Beijing University of Posts and Telecommunications. 
 
 My future work will primarily focus on **LLMs' Reasoning**, including logical, commonsense, and causal reasoning. If you have innovative ideas in the field of reasoning, feel free to reach out to me anytime!
+
+
 <!--
 📢 After going through the 2024 fall and winter job hunting season. I am honored to have received several excellent offers, including Huawei **"TopMinds"** (天才少年) program. After careful consideration, I have decided to join Alibaba as an **Alibaba Star** in the [Qwen team](https://qwenlm.github.io/), taking on the role of Research Scientist (Algorithm Expert). I am deeply grateful for the support of my friends!
-
-
 -->
 
 
